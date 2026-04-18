@@ -1,8 +1,8 @@
 name: Nebula
-version: 1.1.1
+version: 1.1.1-arfycat1
 slug: nebula
 description: HomeAssistant addon for slackhq/nebula
-url: https://github.com/mr-ransel/addon-nebula
+url: https://github.com/arfycat/addon-nebula
 init: false
 arch:
   - aarch64
